@@ -50,4 +50,4 @@ python alarm_clock.py
 ---
 
 ## 👨‍💻 Author
-Developed by Your Name
+Developed by Monty
